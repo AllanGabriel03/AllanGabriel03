@@ -15,4 +15,4 @@ Aluno do curso Especialista Back-End Java na Ebac. Atualmente em um processo de 
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogithub1406&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanGabriel03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
